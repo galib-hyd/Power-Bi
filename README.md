@@ -33,8 +33,9 @@ It provides insights into flight operations, delays, and cancellations using an 
 
 <img width="1275" height="764" alt="image" src="https://github.com/user-attachments/assets/cf42db63-ba3a-49c6-b1be-2f395b19c9c0" />
 
-<img width="1807" height="729" alt="image" src="https://github.com/user-attachments/assets/88283e65-4874-4ab7-a120-c6eff48457a9" />
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/ba183e7c-1da6-4103-bd88-dc1192ae8a67" />
 
+<img width="1807" height="729" alt="image" src="https://github.com/user-attachments/assets/88283e65-4874-4ab7-a120-c6eff48457a9" />
 
 ---
 
